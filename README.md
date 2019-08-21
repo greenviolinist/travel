@@ -1,9 +1,9 @@
-Project Overview
+#Project Overview
+
+Live version: http://righteous-metal.surge.sh/
 
 Project Description:
 Travel bucketlist app that pulls countries' data from API and displays the information when you search for a particular country. Also, a list you can edit and delete to create your own bucketlist.
-
-Wireframes image uploaded.
 
 Challenges for this app:
 How to display all the information in an organized and stylish matter.
@@ -34,4 +34,3 @@ bucket list   |  list of countries on bucketlist
 travelled list|  list of countries travelled 
 photos        |  random images of countries
 
-Project link: http://adventurer.surge.sh# travel
